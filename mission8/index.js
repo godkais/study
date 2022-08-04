@@ -17,6 +17,6 @@ var k = {
     d:"def"
 }
 
-for (var key in k){
-    console.log(`${key} : ${k[key]}`)
+for (var j in k){
+    console.log(`${j} : ${k[j]}`)
 }
